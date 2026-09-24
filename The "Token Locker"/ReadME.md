@@ -1,9 +1,3 @@
-
----
-
-### Project 2: Token Locker
-
-```markdown
 # 🔐 Token Locker
 ### JWT Authentication & CSRF Awareness
 
