@@ -1,7 +1,7 @@
 
 ---
 
-### Project 3: Laggy Blog Dashboard
+### 2. Laggy Blog Dashboard (Clean Version)
 
 ```markdown
 # 🐢 Laggy Blog Dashboard
@@ -64,11 +64,11 @@ You will intentionally break **CLS**, **TTFB/LCP**, and **FID**, then repair the
 
 ## 🛠️ Tech Stack
 
-| Part       | Technology              |
-|------------|-------------------------|
-| Backend    | Node.js + Express       |
-| Frontend   | HTML + CSS + Vanilla JS |
-| Measurement| Chrome DevTools (Lighthouse & Performance) |
+| Part        | Technology                          |
+|-------------|-------------------------------------|
+| Backend     | Node.js + Express                   |
+| Frontend    | HTML + CSS + Vanilla JS             |
+| Measurement | Chrome DevTools (Lighthouse & Performance) |
 
 ---
 
